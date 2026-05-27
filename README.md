@@ -22,5 +22,3 @@ This project performs basic student record management using a menu-driven progra
 - VS Code
 
 ---
-
-## 📁 Project Structure
